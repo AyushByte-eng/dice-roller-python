@@ -1,4 +1,4 @@
- import random
+  import random
 
 while True:
     choice = input("Roll the dice? (yes/no): ").lower()
